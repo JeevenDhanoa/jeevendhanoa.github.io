@@ -1,0 +1,66 @@
+body {
+  /*background-image: url("../../images/stars.jpg"); 
+  color: white; */
+  text-align: center;
+  color: #d1fafa;
+
+  background: url("../../not-code/2001.gif") no-repeat center center fixed;
+  background-size: cover;
+  /*text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;*/
+  overflow: visible;
+}
+header {
+  color: white;
+  font-size: 2.5em;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.main {
+  margin-bottom: 3vh;
+}
+
+li {
+  display: inline-block;
+  list-style-type: none;
+  margin-right: 1vw;
+}
+
+ul {
+  margin-left: 0;
+}
+
+.intro {
+  margin-bottom: 43vh;
+}
+
+h1 {
+  font-size: 5em;
+  /*text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000; */
+  display: inline-block;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+.fab, .fas{
+  margin-right: 10px;
+  font-size: 4em;
+}
+
+.thank {
+  color: white;
+  margin-bottom: 0;
+}
+
+
+footer i {
+  float: right;
+  margin-left: 65vw;
+}

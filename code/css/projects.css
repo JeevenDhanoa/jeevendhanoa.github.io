@@ -1,0 +1,70 @@
+body {
+  background-image: url("../../not-code/night4.jpg"); 
+  color: white;
+  text-align: center;
+  background-size: cover;
+  overflow: visible;
+  font-family: Avenir;
+}
+
+table {
+  border: 5px solid white;
+  margin-left: 5%; 
+  margin-right: 5%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  background-color: rgba(0, 0, 0, 0.7);
+  margin-bottom: 20vh;
+}
+
+header {
+  font-size: 2.5em;
+  font-family: auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+td a {
+  text-decoration: underline;
+  color: #d1fafa;
+}
+.main {
+  margin-bottom: 3vh;
+}
+
+li {
+  display: inline-block;
+  list-style-type: none;
+  margin-right: 1vw;
+}
+
+ul {
+  margin-left: 0;
+}
+
+video {
+  width: 45vw;
+}
+
+img {
+  display: inline-block;
+  height: 25vw;
+}
+
+.media {
+  width: 50vw;
+  padding-bottom: 10vh;
+}
+
+.title {
+  width: 15vw;
+  font-size: 2em;
+  padding-right: 2vw;
+}
+
+.description {
+  padding-bottom: 10vh
+}
